@@ -35,7 +35,7 @@ This project not only provided valuable insights into the impact of layoffs but 
 
 ## Code
 
-The complete SQL script for this project can be found [here](Portfolio%20Project%20-%20Data%20Cleaning%20Dana.sql).
+The complete SQL script for this project can be found [here](https://github.com/danartech/Portfolio-Project-EDA/blob/main/Portfolio%20Project%20-%20EDA.sql).
 
 ## Certifications
 
